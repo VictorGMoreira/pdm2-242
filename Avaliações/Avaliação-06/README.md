@@ -1,3 +1,5 @@
-Criar uma aplicação Flutter que implementa a navegação entre telas. É sugerido o uso de um Drawer. Evidenciar o código e a navegação entre as telas.
+## Navegação entre telas usando Flutter
+Atividade da disciplina Programação de Dispositivos Móveis II, sob orientação do professor Ricardo Taveira.
+Este é um projeto Flutter que implementa um site de receitas com navegação entre telas, utilizando o componente Drawer para facilitar a navegação do usuário entre as páginas.
 
-Observação: Equipe com 2 alunos. Cada aluno deve postar no seu Github as evidencias na pasta avaliação-06.
+Desenvolvido por: Ruth Rodrigues e Victor Gabriel.
